@@ -3,4 +3,4 @@
 </p>
 <h1 align="center">holbertonschool-zero_day</h1>
 
-- # **[0x00 - GIT](https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git)**
+- ### **[0x00 - GIT](https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git)**
