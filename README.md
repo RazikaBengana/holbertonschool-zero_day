@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-![Zero_day.png](INDEX-image/zero_day.png)
+![Zero_day.png](README-image/zero_day.png)
 
 </div>
 
