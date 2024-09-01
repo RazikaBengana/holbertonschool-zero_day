@@ -175,13 +175,21 @@ $ sudo apt-get install git
 <br>
 <br>
 
+:pushpin: **Note**:
+<br>
+<br>
+If you’re already the `root` user in the sandbox (e.g. your username starts with `root`), you can omit the `sudo` from the commands above as you already have sufficient user permissions.
+
+<br>
+<br>
+
 <!-- ------------------------------------------------------------------------------------------------- -->
 
 ## :keyboard: Basic Usage
 
 <br>
 
-- You should be able to reproduce and understand these command lines:
+- At the end of this project, you should be able to reproduce and understand these command lines:
 
 <br>
 
