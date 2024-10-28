@@ -26,7 +26,7 @@
 <a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#memo-learning-objectives">Learning Objectives</a> •
 <a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#computer-requirements">Requirements</a> •
 <a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#package-installation">Installation</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#keyboard-basic-usage">Basic usage</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#keyboard-basic-usage">Basic Usage</a> •
 <a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#mag_right-resources">Resources</a> •
 <a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#bust_in_silhouette-authors">Authors</a> •
 <a href="https://github.com/RazikaBengana/holbertonschool-zero_day/tree/main/git#octocat-license">License</a>
@@ -84,7 +84,7 @@ This project has been created by **[Holberton School](https://www.holbertonschoo
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -253,7 +253,7 @@ $ git push origin main
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
